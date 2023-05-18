@@ -1,4 +1,4 @@
-# rancher
+# rancher-tool
 
 rancher 工具，调用rancher的api，目前仅提供deployment的update
 
